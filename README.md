@@ -13,7 +13,7 @@ Specialized in **React, Next.js, ViexIO TypeScript & UI Architecture**
 
 ## 📌 Featured Projects
 
-### 🛍️ Pandora LATAM – Ecommerce
+### 💍 Pandora LATAM – Ecommerce
 _(Tech Lead)_
 
 Enterprise-level ecommerce for Pandora in Latin America.
