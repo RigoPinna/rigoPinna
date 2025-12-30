@@ -71,8 +71,9 @@ Platform that connects **donors, associations, and volunteers**, allowing organi
   - Scalable frontend architecture
 
 🔗 **Production**
-- https://web.comunidav.org
-- App store: https://apps.apple.com/mx/app/comunidav/id6461721061?l=en-GB
+- web🟢: https://web.comunidav.org
+- mobile(🔄updating):
+  - App Store: https://apps.apple.com/mx/app/comunidav/id6461721061?l=en-GB
 
 
 ## 🛠️ Tech Stack
