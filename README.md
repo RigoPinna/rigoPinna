@@ -26,7 +26,8 @@ Enterprise-level ecommerce for Pandora in Latin America.
   - Performance and UX improvements
 
 🔗 **Production**
-- https://www.pandoraoficial.cl/
+- https://www.pandoraoficial.pe/
+- https://www.pandoraoficial.pa/
 - https://www.pandoraoficial.com.ar/
 
 ---
@@ -72,8 +73,10 @@ Platform that connects **donors, associations, and volunteers**, allowing organi
 
 🔗 **Production**
 - web🟢: https://web.comunidav.org
-- mobile(🔄updating):
+- mobile:
   - App Store: https://apps.apple.com/mx/app/comunidav/id6461721061?l=en-GB
+  - Android 🔄️ updating
+
 
 
 ## 🛠️ Tech Stack
