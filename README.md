@@ -26,8 +26,8 @@ Enterprise-level ecommerce for Pandora in Latin America.
   - Performance and UX improvements
 
 🔗 **Production**
-- https://www.pandoraoficial.pe/
-- https://www.pandoraoficial.pa/
+- https://www.pandoraoficial.com.pe/
+- https://www.pandoraoficial.com.pa/
 - https://www.pandoraoficial.com.ar/
 
 ---
